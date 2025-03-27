@@ -1,0 +1,55 @@
+[INFO] - [27-03-2025 15:57:18] [main] [org.salamdev.listeners.TestNGListeners] - Test execution started
+[INFO] - [27-03-2025 15:57:18] [main] [org.salamdev.utils.PropertiesUtil] - Loading Properties File Data
+[INFO] - [27-03-2025 15:57:18] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Lenovo\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[INFO] - [27-03-2025 15:57:21] [main] [org.salamdev.drivers.DriverManager] - driver created on edge
+[INFO] - [27-03-2025 15:57:21] [main] [org.salamdev.utils.PropertiesUtil] - Loading Properties File Data
+[INFO] - [27-03-2025 15:57:28] [main] [org.salamdev.utils.BrowserActions] - navigated to url:  https://salamdev.com/
+[INFO] - [27-03-2025 15:57:28] [main] [org.salamdev.utils.Waits] - waiting for element to be clickable By.xpath: //span[text()='Contact us']
+[INFO] - [27-03-2025 15:57:28] [main] [org.salamdev.utils.Waits] - waiting for element to be visible By.xpath: //span[text()='Contact us']
+[INFO] - [27-03-2025 15:57:28] [main] [org.salamdev.utils.Waits] - waiting for element to be present By.xpath: //span[text()='Contact us']
+[INFO] - [27-03-2025 15:57:29] [main] [org.salamdev.utils.Scrolling] - scrolling to element:  By.xpath: //span[text()='Contact us']
+[INFO] - [27-03-2025 15:57:29] [main] [org.salamdev.utils.ElementActions] - finding element By.xpath: //span[text()='Contact us']
+[INFO] - [27-03-2025 15:57:29] [main] [org.salamdev.utils.ElementActions] - finding element By.xpath: //span[text()='Contact us']
+[INFO] - [27-03-2025 15:57:30] [main] [org.salamdev.utils.ElementActions] - clicked on element By.xpath: //span[text()='Contact us']
+[INFO] - [27-03-2025 15:57:30] [main] [org.salamdev.utils.BrowserActions] - currnet url: https://salamdev.com/contact-us/
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be clickable By.id: form-field-field_b2d3f57
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be visible By.id: form-field-field_b2d3f57
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be present By.id: form-field-field_b2d3f57
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Scrolling] - scrolling to element:  By.id: form-field-field_b2d3f57
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - finding element By.id: form-field-field_b2d3f57
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - finding element By.id: form-field-field_b2d3f57
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - data entered Doe  in the field By.id: form-field-field_b2d3f57
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be clickable By.id: form-field-email
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be visible By.id: form-field-email
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be present By.id: form-field-email
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Scrolling] - scrolling to element:  By.id: form-field-email
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - finding element By.id: form-field-email
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - finding element By.id: form-field-email
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - data entered john.doe@example.com  in the field By.id: form-field-email
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be clickable By.id: form-field-field_9b0729c
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be visible By.id: form-field-field_9b0729c
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be present By.id: form-field-field_9b0729c
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Scrolling] - scrolling to element:  By.id: form-field-field_9b0729c
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - finding element By.id: form-field-field_9b0729c
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - finding element By.id: form-field-field_9b0729c
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - data entered +1234567890  in the field By.id: form-field-field_9b0729c
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be clickable By.id: form-field-message
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be visible By.id: form-field-message
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Waits] - waiting for element to be present By.id: form-field-message
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.Scrolling] - scrolling to element:  By.id: form-field-message
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - finding element By.id: form-field-message
+[INFO] - [27-03-2025 15:57:31] [main] [org.salamdev.utils.ElementActions] - finding element By.id: form-field-message
+[INFO] - [27-03-2025 15:57:32] [main] [org.salamdev.utils.ElementActions] - data entered I would like to inquire about your services.  in the field By.id: form-field-message
+[INFO] - [27-03-2025 15:57:32] [main] [org.salamdev.utils.Waits] - waiting for element to be clickable By.xpath: //button[contains(@class, 'elementor-button')]
+[INFO] - [27-03-2025 15:57:32] [main] [org.salamdev.utils.Waits] - waiting for element to be visible By.xpath: //button[contains(@class, 'elementor-button')]
+[INFO] - [27-03-2025 15:57:32] [main] [org.salamdev.utils.Waits] - waiting for element to be present By.xpath: //button[contains(@class, 'elementor-button')]
+[INFO] - [27-03-2025 15:57:32] [main] [org.salamdev.utils.Scrolling] - scrolling to element:  By.xpath: //button[contains(@class, 'elementor-button')]
+[INFO] - [27-03-2025 15:57:32] [main] [org.salamdev.utils.ElementActions] - finding element By.xpath: //button[contains(@class, 'elementor-button')]
+[INFO] - [27-03-2025 15:57:32] [main] [org.salamdev.utils.ElementActions] - finding element By.xpath: //button[contains(@class, 'elementor-button')]
+[INFO] - [27-03-2025 15:57:32] [main] [org.salamdev.utils.ElementActions] - clicked on element By.xpath: //button[contains(@class, 'elementor-button')]
+[INFO] - [27-03-2025 15:57:33] [main] [org.salamdev.utils.AllureUtil] - Logs attached to the report
+[INFO] - [27-03-2025 15:57:33] [main] [org.salamdev.listeners.TestNGListeners] - Test casee2eTestpassed
+[INFO] - [27-03-2025 15:57:35] [main] [org.salamdev.utils.BrowserActions] - closing browser
+[INFO] - [27-03-2025 15:57:37] [main] [org.salamdev.listeners.TestNGListeners] - Test execution finished

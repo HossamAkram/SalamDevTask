@@ -1,0 +1,9 @@
+{
+  "contactUsData": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "contactNumber": "+1234567890",
+    "message": "I would like to inquire about your services."
+  }
+}
